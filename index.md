@@ -9,9 +9,14 @@ title: Home
 I design and optimize HRIS, payroll, and employee engagement systems to improve efficiency, compliance, and employee experience.  
 This portfolio highlights my projects, case studies, and tools I’ve built.  
 
-<a href="AmyBray_Resume.pdf" style="background:#6a5acd; color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold;">
-📄 Download Resume
-</a>
+---
 
-🔗 [Projects](projects.md) • [Case Studies](case-studies.md) • [Contact](contact.md)
+<div style="text-align:center; margin-top:20px;">
+  <a href="projects.md" class="btn">💻 Projects</a>
+  <a href="case-studies.md" class="btn">📊 Case Studies</a>
+  <a href="contact.md" class="btn">📬 Contact</a>
+  <a href="AmyBray_Resume.pdf" class="btn">📄 Download Resume</a>
+</div>
+
+
 
