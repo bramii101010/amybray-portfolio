@@ -40,4 +40,5 @@ A selection of portfolio projects demonstrating my experience in **HRIS optimiza
 ## SQL for People Analytics  
 **Tools:** SQL (sample HR dataset)  
 - Designed queries to analyze workforce trends, including tenure, turnover, and assignment type  
-- Example: average contractor tenure
+- Example: average contractor tenure by employment type (W2 vs 1099 vs Direct Hire)  
+- Helped HRBP team identify workforce patterns and opportunities for retention  
