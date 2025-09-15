@@ -20,3 +20,7 @@ body {
 .btn:hover {
   background: #483d8b; /* darker lavender on hover */
 }
+/* Hide the default GitHub button in Cayman */
+.page-header .btn {
+  display: none !important;
+}
