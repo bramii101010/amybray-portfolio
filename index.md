@@ -13,9 +13,9 @@ This portfolio highlights my projects, case studies, and tools I’ve built.
 
 <div style="text-align:center; margin-top:20px;">
   <a href="projects.md" class="btn">💻 Projects</a>
-  <a href="case-studies.md" class="btn">📊 Case Studies</a>
-  <a href="contact.md" class="btn">📬 Contact</a>
-  <a href="AmyBray_Resume.pdf" class="btn">📄 Download Resume</a>
+<a href="case-studies.md" class="btn">📊 Case Studies</a>
+<a href="contact.md" class="btn">📬 Contact</a>
+<a href="AmyBray_Resume.pdf" class="btn">📄 Download Resume</a>
 </div>
 
 
