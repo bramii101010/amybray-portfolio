@@ -1,24 +1,38 @@
 ---
-layout: page
-title: Projects
+layout: single
+title: "Projects"
+permalink: /projects/
 ---
 
 # 💻 Projects  
 
-## AuniConnect – Employee Engagement App
-- Built with Flask, Python, and Google Sheets  
-- Features kudos wall, recognition tags, challenges, and AI chatbot  
-- [View Code on GitHub](https://github.com/yourrepo/auniconnect)
+## AuniConnect – Employee Engagement App  
+- Flask + Python web app with kudos, challenges, and AI chatbot  
+- Built for portfolio demo to showcase HR tech + employee engagement workflows  
+- Features: recognition wall, weekly challenges, escalation logging, AI bot "Aunikah"  
+- [View on GitHub](https://github.com/yourrepo/auniconnect)  
 
 ---
 
-## Salesforce HRIS Data Model
-- Designed HR case tracking & onboarding workflows  
-- Optimized for Agentforce + HR ops  
-- Screenshot: ![Salesforce demo](assets/salesforce-demo.png)
+## Financial Forecasting Model (Upwork)  
+**Tools:** Excel, Smartsheet  
+- Created a forecasting model to predict global contractor costs for 800+ U.S. and 200+ international workers  
+- Helped Finance and HR align on workforce planning and budgeting  
+- **Impact:** improved visibility into spend and reduced forecasting errors by 20%  
+- 📊 [Download Example PDF](../assets/financial-forecasting-sample.pdf)  
 
 ---
 
-## Ready-to-Work Tracker
-- I-9/E-Verify compliance tool built in Smartsheet, later migrated to Salesforce  
-- Provided clients real-time visibility and audit readiness  
+## HR Dashboard Walkthrough  
+**Tools:** Google Sheets, Data Studio (Looker Studio), sample HR data  
+- Built an interactive HR dashboard to track onboarding cycle time, assignment end dates, and compliance tasks  
+- Used color-coded alerts and COUNTIF formulas to track progress  
+- Screenshot:  
+  ![Dashboard Screenshot](../assets/dashboard-sample.png)  
+
+---
+
+## SQL for People Analytics  
+- Built queries to analyze employee data (turnover, engagement scores, contractor tenure)  
+- Example query: average tenure by employment type (W2 vs 1099 vs Direct Hire)  
+- Helped HRBP team identify patterns in assignment length  
