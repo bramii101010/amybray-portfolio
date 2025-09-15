@@ -4,11 +4,20 @@ title: "Projects"
 permalink: /projects/
 ---
 
+<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
+  <a href="/" class="btn">🏠 Home</a>
+  <a href="/projects/" class="btn">💻 Projects</a>
+  <a href="/case-studies/" class="btn">📊 Case Studies</a>
+  <a href="/contact/" class="btn">📬 Contact</a>
+  <a href="/AmyBray_Resume.pdf" class="btn">📄 Resume</a>
+</div>
+
+---
+
 # 💻 Projects  
 
 ## AuniConnect – Employee Engagement App  
 - Flask + Python web app with kudos, challenges, and AI chatbot  
-- Built for portfolio demo to showcase HR tech + employee engagement workflows  
 - Features: recognition wall, weekly challenges, escalation logging, AI bot "Aunikah"  
 - [View on GitHub](https://github.com/yourrepo/auniconnect)  
 
@@ -24,9 +33,8 @@ permalink: /projects/
 ---
 
 ## HR Dashboard Walkthrough  
-**Tools:** Google Sheets, Data Studio (Looker Studio), sample HR data  
+**Tools:** Google Sheets, Data Studio (Looker Studio)  
 - Built an interactive HR dashboard to track onboarding cycle time, assignment end dates, and compliance tasks  
-- Used color-coded alerts and COUNTIF formulas to track progress  
 - Screenshot:  
   ![Dashboard Screenshot](../assets/dashboard-sample.png)  
 
@@ -34,5 +42,4 @@ permalink: /projects/
 
 ## SQL for People Analytics  
 - Built queries to analyze employee data (turnover, engagement scores, contractor tenure)  
-- Example query: average tenure by employment type (W2 vs 1099 vs Direct Hire)  
-- Helped HRBP team identify patterns in assignment length  
+- Example: average tenure by employment type (W2 vs 1099 vs Direct Hire)  
