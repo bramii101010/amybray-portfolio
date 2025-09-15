@@ -6,7 +6,6 @@ description: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce P
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
 
 # Minimal Mistakes settings
 plugins:
@@ -24,4 +23,3 @@ nav:
     url: /contact/
   - title: "Resume"
     url: /AmyBray_Resume.pdf
-
