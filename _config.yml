@@ -1,7 +1,27 @@
-theme: jekyll-theme-cayman
-title: Amy Bray Portfolio
-description: People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs
-show_downloads: false
-include:
-  - style.css
+remote_theme: mmistakes/minimal-mistakes
+
+title: "Amy Bray Portfolio"
+name: "Amy Bray"
+description: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+
+# Minimal Mistakes settings
+plugins:
+  - jekyll-include-cache
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Case Studies"
+    url: /case-studies/
+  - title: "Contact"
+    url: /contact/
+  - title: "Resume"
+    url: /AmyBray_Resume.pdf
 
