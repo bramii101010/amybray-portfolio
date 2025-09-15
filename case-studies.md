@@ -5,9 +5,9 @@ title: Case Studies
 
 # 📊 Case Studies  
 
-## Scaling Global Contingent Workforce @ Upwork
+## Scaling Global Contingent Workforce 
 **Challenge:** Managing 1,000+ contractors across 20+ countries.  
-**Approach:** Built centralized compliance tracker, streamlined onboarding.  
+**Approach:** Built program processes from offer acceptance to onboarding with EOR partners to end of contract, created centralized program health tracker, streamlined onboarding.  
 **Results:** Reduced errors by 40%, audit-ready compliance.  
 
 ---
