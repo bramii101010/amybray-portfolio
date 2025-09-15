@@ -1,0 +1,22 @@
+/* 🎨 Custom Portfolio Styles */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Button style */
+.btn {
+  background: #6a5acd; /* lavender/soft blue */
+  color: white !important;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 5px;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background: #483d8b; /* darker lavender on hover */
+}
