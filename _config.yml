@@ -28,6 +28,10 @@ markdown: kramdown
 plugins:
   - jekyll-include-cache
 
+# Custom CSS
+head_scripts:
+  - /assets/css/custom.css
+
 # Defaults
 defaults:
   - scope:
