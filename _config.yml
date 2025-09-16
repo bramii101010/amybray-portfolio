@@ -23,3 +23,4 @@ main:
     url: /contact/
   - title: "Resume"
     url: /AmyBray_Resume.pdf
+show_excerpts: true
