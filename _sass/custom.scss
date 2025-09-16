@@ -149,8 +149,8 @@ a[href*="github.com"]:hover {
   background-color: #333; /* GitHub dark */
 }
 
-/* Resume link special styling */
-a[href$=".pdf"] {
+/* Resume link special styling - only for navigation, not content */
+.masthead a[href$=".pdf"] {
   background-color: var(--accent-orange);
   color: var(--white);
   padding: 0.8rem 1.5rem;
@@ -163,10 +163,26 @@ a[href$=".pdf"] {
   transition: all 0.3s ease;
 }
 
-a[href$=".pdf"]:hover {
+.masthead a[href$=".pdf"]:hover {
   background-color: #d35400;
   transform: translateY(-2px);
   box-shadow: 0 5px 12px rgba(230, 126, 34, 0.4);
+}
+
+/* Resume links in content should look like other contact links */
+.page__content a[href$=".pdf"] {
+  background-color: var(--warm-gray);
+  color: var(--white);
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0.5rem 0.5rem 0.5rem 0;
+  transition: background-color 0.3s ease;
+}
+
+.page__content a[href$=".pdf"]:hover {
+  background-color: var(--accent-orange);
 }
 
 /* Horizontal rules for section separation */
