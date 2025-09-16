@@ -30,7 +30,7 @@ plugins:
 
 # Custom CSS
 head_scripts:
-  - /assets/css/custom.css
+  - /assets/css/main.css
 
 # Defaults
 defaults:
