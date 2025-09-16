@@ -1,8 +1,21 @@
 remote_theme: mmistakes/minimal-mistakes
-
 title: "Amy Bray Portfolio"
 name: "Amy Bray"
 description: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
+
+# Additional Minimal Mistakes settings
+minimal_mistakes_skin: "default" # or another skin of your choice
+search: true
+search_full_content: true
+
+# Social links (optional)
+author:
+  name: "Amy Bray"
+  bio: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bramii101010"
 
 # Site settings
 url: "https://bramii101010.github.io"
@@ -15,19 +28,18 @@ markdown: kramdown
 plugins:
   - jekyll-include-cache
 
-# Navigation links
-navigation:
-  main:
-    - title: "Home"
-      url: /amybray-portfolio/
-    - title: "Projects"
-      url: /amybray-portfolio/projects/
-    - title: "Case Studies"
-      url: /amybray-portfolio/case-studies/
-    - title: "Contact"
-      url: /amybray-portfolio/contact/
-    - title: "Resume"
-      url: /AmyBray_Resume.pdf
+# Navigation links - REMOVE "navigation:" and just use "main:"
+main:
+  - title: "Home"
+    url: /amybray-portfolio/
+  - title: "Projects"
+    url: /amybray-portfolio/projects/
+  - title: "Case Studies"
+    url: /amybray-portfolio/case-studies/
+  - title: "Contact"
+    url: /amybray-portfolio/contact/
+  - title: "Resume"
+    url: /amybray-portfolio/AmyBray_Resume.pdf
 
 # Defaults
 defaults:
