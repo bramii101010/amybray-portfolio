@@ -4,11 +4,11 @@ name: "Amy Bray"
 description: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
 
 # Additional Minimal Mistakes settings
-minimal_mistakes_skin: "default" # or another skin of your choice
+minimal_mistakes_skin: "default"
 search: true
 search_full_content: true
 
-# Social links (optional)
+# Social links
 author:
   name: "Amy Bray"
   bio: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
@@ -24,23 +24,9 @@ baseurl: "/amybray-portfolio"
 # Build settings
 markdown: kramdown
 
-# Minimal Mistakes settings
+# Plugins
 plugins:
   - jekyll-include-cache
-
-# Navigation links - REMOVE "navigation:" and just use "main:"
-# Navigation links
-main:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "Case Studies"
-    url: /case-studies/
-  - title: "Contact"
-    url: /contact/
-  - title: "Resume"
-    url: /AmyBray_Resume.pdf
 
 # Defaults
 defaults:
