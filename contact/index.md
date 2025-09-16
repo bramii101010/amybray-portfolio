@@ -16,6 +16,6 @@ permalink: /contact/
 
 # 📬 Contact  
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🖥️ GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- 📧 Email: [amybray0315@gmaile.com](mailto:amybray0315@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/amybrayphr](https://linkedin.com/in/amybrayphr)  
+- 🖥️ GitHub: [github.com/bramii101010](https://github.com/bramii101010)  
