@@ -12,7 +12,7 @@ plugins:
   - jekyll-include-cache
 
 # Navigation links
-nav:
+main:
   - title: "Home"
     url: /
   - title: "Projects"
