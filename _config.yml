@@ -23,4 +23,9 @@ main:
     url: "/contact/"
   - title: "Resume"
     url: "/AmyBray_Resume.pdf"
-
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
