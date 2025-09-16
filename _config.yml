@@ -29,17 +29,18 @@ plugins:
   - jekyll-include-cache
 
 # Navigation links - REMOVE "navigation:" and just use "main:"
+# Navigation links
 main:
   - title: "Home"
-    url: /amybray-portfolio/
+    url: /
   - title: "Projects"
-    url: /amybray-portfolio/projects/
+    url: /projects/
   - title: "Case Studies"
-    url: /amybray-portfolio/case-studies/
+    url: /case-studies/
   - title: "Contact"
-    url: /amybray-portfolio/contact/
+    url: /contact/
   - title: "Resume"
-    url: /amybray-portfolio/AmyBray_Resume.pdf
+    url: /AmyBray_Resume.pdf
 
 # Defaults
 defaults:
