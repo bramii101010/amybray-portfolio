@@ -4,6 +4,10 @@ title: "Amy Bray Portfolio"
 name: "Amy Bray"
 description: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
 
+# Site settings
+url: "https://bramii101010.github.io"
+baseurl: "/amybray-portfolio"
+
 # Build settings
 markdown: kramdown
 
@@ -14,15 +18,17 @@ plugins:
 # Navigation links
 main:
   - title: "Home"
-    url: /
+    url: "{{ site.baseurl }}/"
   - title: "Projects"
-    url: "/projects/"
+    url: "{{ site.baseurl }}/projects/"
   - title: "Case Studies"
-    url: "/case-studies/"
+    url: "{{ site.baseurl }}/case-studies/"
   - title: "Contact"
-    url: "/contact/"
+    url: "{{ site.baseurl }}/contact/"
   - title: "Resume"
-    url: "/AmyBray_Resume.pdf"
+    url: "{{ site.baseurl }}/AmyBray_Resume.pdf"
+
+# Defaults
 defaults:
   - scope:
       path: ""
