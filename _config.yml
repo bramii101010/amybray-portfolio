@@ -19,13 +19,13 @@ plugins:
 navigation:
   main:
     - title: "Home"
-      url: /
+      url: /amybray-portfolio/
     - title: "Projects"
-      url: /projects/
+      url: /amybray-portfolio/projects/
     - title: "Case Studies"
-      url: /case-studies/
+      url: /amybray-portfolio/case-studies/
     - title: "Contact"
-      url: /contact/
+      url: /amybray-portfolio/contact/
     - title: "Resume"
       url: /AmyBray_Resume.pdf
 
