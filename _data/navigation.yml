@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Case Studies"
+    url: /case-studies/
+  - title: "Contact"
+    url: /contact/
+  - title: "Resume"
+    url: /AmyBray_Resume.pdf
