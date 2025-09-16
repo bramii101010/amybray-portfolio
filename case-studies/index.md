@@ -2,15 +2,6 @@
 layout: single
 title: "Case Studies"
 permalink: /case-studies/
----
-
-<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
-  <a href="/" class="btn">🏠 Home</a>
-  <a href="/projects/" class="btn">💻 Projects</a>
-  <a href="/case-studies/" class="btn">📊 Case Studies</a>
-  <a href="/contact/" class="btn">📬 Contact</a>
-  <a href="/AmyBray_Resume.pdf" class="btn">📄 Resume</a>
-</div>
 
 ---
 
