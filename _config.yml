@@ -16,11 +16,11 @@ main:
   - title: "Home"
     url: /
   - title: "Projects"
-    url: /projects/
+    url: "/projects/"
   - title: "Case Studies"
-    url: /case-studies/
+    url: "/case-studies/"
   - title: "Contact"
-    url: /contact/
+    url: "/contact/"
   - title: "Resume"
-    url: /AmyBray_Resume.pdf
-show_excerpts: true
+    url: "/AmyBray_Resume.pdf"
+
