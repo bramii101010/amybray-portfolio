@@ -16,17 +16,18 @@ plugins:
   - jekyll-include-cache
 
 # Navigation links
-main:
-  - title: "Home"
-    url: "{{ site.baseurl }}/"
-  - title: "Projects"
-    url: "{{ site.baseurl }}/projects/"
-  - title: "Case Studies"
-    url: "{{ site.baseurl }}/case-studies/"
-  - title: "Contact"
-    url: "{{ site.baseurl }}/contact/"
-  - title: "Resume"
-    url: "{{ site.baseurl }}/AmyBray_Resume.pdf"
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "Projects"
+      url: /projects/
+    - title: "Case Studies"
+      url: /case-studies/
+    - title: "Contact"
+      url: /contact/
+    - title: "Resume"
+      url: /AmyBray_Resume.pdf
 
 # Defaults
 defaults:
