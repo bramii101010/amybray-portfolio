@@ -7,51 +7,52 @@ header:
   overlay_filter: 0.3
   # caption: "Bringing AI + engagement together in one platform"
 ---
+
 <p class="page__lead" style="text-align:center;">
   Bringing AI + engagement together in one platform
 </p>
 
 ## 📌 Problem  
-Employee engagement solutions are often fragmented across multiple tools (chat, kudos, surveys, onboarding), making it difficult for People Ops leaders to track and scale engagement consistently.  
+Employee engagement solutions are often fragmented across multiple tools — surveys, kudos apps, onboarding trackers, chatbots — leaving HR leaders without a central system for visibility and scale.  
 
 ---
 
 ## ⚙️ Solution  
-I designed and built **AuniConnect**, a Flask-based HR tech prototype that unifies engagement into one place:  
+I designed and built **AuniConnect**, a Flask-based HR tech prototype that unifies engagement into a single platform:  
 
 - **AI Chatbot (Aunikah)**  
   - Answers FAQs and provides policy guidance.  
   - Escalates questions to admins when needed.  
-  - Detects employee type (W2, 1099, direct hire) for tailored responses.  
+  - Tailors responses based on employee type (W2, 1099, direct hire).  
 
 - **Recognition & Engagement**  
   - Kudos Wall for peer-to-peer recognition.  
   - Weekly challenges and engagement prompts.  
-  - Tags to track organizational values (e.g., teamwork, creativity).  
+  - Tags to track core values like teamwork and creativity.  
 
 - **Admin Dashboards**  
   - Manage employee data (employment type, EOR, assignment dates).  
   - Track recognition trends and engagement stats.  
-  - Access compliance-related info in one view.  
+  - Access compliance-related info in one place.  
 
 - **Tech Stack**  
   - Flask + JSON storage (lightweight HRIS simulation).  
-  - Streamlit prototypes for analytics (e.g., AccuAI integration).  
+  - Streamlit prototypes for analytics (AccuAI integration).  
   - Python automations for chat history, recognition tracking, and escalations.  
 
 ---
 
 ## 📈 Results  
-- **HR Tech Innovation Demo**: Demonstrates how AI and HRIS concepts combine for real-world engagement solutions.  
+- **Innovation Demo**: Showcases how AI and HRIS concepts can be combined in a working prototype.  
 - **Engagement Visibility**: Provides recognition stats and employee activity data.  
-- **Scalable Foundation**: Prototype can expand into full HRIS integrations (Salesforce, Workday, ADP).  
-- **Portfolio Value**: Serves as a showcase of my ability to design and implement people-focused AI solutions.  
+- **Scalable Foundation**: Built to expand into Salesforce, Workday, or ADP integrations.  
+- **Portfolio Value**: Demonstrates HRIS and AI innovation for People Ops leaders.  
 
 ---
 
 ## 💡 Business Value  
-AuniConnect shows how HR and AI can work together to:  
-- Boost engagement with recognition and challenges.  
-- Automate policy Q&A while keeping admins in the loop.  
-- Centralize employee engagement data into one platform.  
-- Serve as a foundation for AI-powered HRIS innovation.  
+AuniConnect demonstrates how People Ops and AI can work together to:  
+- Boost engagement through recognition and challenges.  
+- Automate routine Q&A while keeping admins in control.  
+- Centralize engagement data into one platform.  
+- Build a foundation for the next generation of AI-powered HRIS solutions.  
