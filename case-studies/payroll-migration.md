@@ -12,7 +12,7 @@ header:
 </p>
 ---
 
-💵 Payroll Migration
+## 💵 Payroll Migration
 
 ## 📌 Problem  
 
@@ -28,13 +28,13 @@ High dependency on manual workarounds.
 
 I was brought in to build U.S. payroll operations from the ground up:
 
-## System Setup
+**System Setup**
 
 Migrated payroll into the company’s systems where no U.S. payroll function previously existed.
 
 Partnered cross-functionally with HR, Finance, and Legal to align compliance workflows.
 
-## Process Design
+**Process Design**
 
 Created payroll workflows that covered onboarding, time/attendance, and pay cycle execution.
 
