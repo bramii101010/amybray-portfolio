@@ -22,7 +22,7 @@ permalink: /projects/
   HR case management prototype built on Salesforce with automated workflows.  
   👉 [Read Full Project →]({{ site.baseurl }}/projects/salesforce-agentforce/)
 
-- 🧾 **Payroll Migration Project (Velocity Global)**  
+- 🧾 **Payroll Migration Project**  
   Migrated U.S. payroll into global EOR system, ensuring compliance for 500+ employees.  
   👉 [Read Full Project →]({{ site.baseurl }}/projects/payroll-migration/)
 
