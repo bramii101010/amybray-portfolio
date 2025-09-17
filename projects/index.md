@@ -19,16 +19,16 @@ A selection of portfolio projects demonstrating my experience in **HRIS optimiza
 
 ---
 
-## AI Accounting Assistant
+## AccuAI – AI Accounting Assistant
 
-Tools: Streamlit, Python, Pandas, Plotly
+Tools: Streamlit, Python, Pandas, Plotly  
 
-  * Built a privacy-first accounting analysis app with AI features
-  * Detects and redacts sensitive data (SSNs, emails, phone numbers, account numbers)
-  * Flags anomalies such as duplicate payments, outliers, and negative transactions
-  * Provides instant analytics with summary stats and interactive charts
-  * [View Live Demo](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/)
-  * 
+  * Privacy-first accounting analysis app with AI features  
+  * Detects and redacts sensitive data (SSNs, emails, phone numbers, account numbers)  
+  * Flags anomalies such as duplicate payments, outliers, and negative transactions  
+  * Provides instant analytics with summary stats and interactive charts  
+  * [View Live Demo](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/)  
+
 ---
 
 ## HR Dashboard Walkthrough  
