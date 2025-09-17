@@ -82,7 +82,7 @@ For a **Chief Accounting Officer (CAO)**, AccuAI demonstrates how AI can:
 
 ---
 
-✨ With AccuAI, I showcase how **AI strengthens accounting operations** by protecting privacy, detecting anomalies, and delivering instant analytics — giving leaders a clear, business-ready example of AI in action.  
+✨ With AccuAI, I showcase how AI strengthens accounting operations by protecting privacy, detecting anomalies, and delivering instant analytics — giving leaders a clear, business-ready example of AI in action.  
 
 ---
 
