@@ -38,7 +38,7 @@ permalink: /case-studies/
 **Challenge:** No U.S. payroll function in-house.  
 **Approach:** Migrated U.S. payroll from scratch, partnered cross-functionally, built compliance workflows.  
 **Results:** Launched payroll for 500+ employees, ensuring accurate, compliant processing.  
-👉 [Read Full Case Study →](/case-studies/payroll-migration/)
+👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/payroll-migration/)
 
 ---
 
