@@ -5,7 +5,12 @@ permalink: /case-studies/scaling-global/
 header:
   overlay_image: /assets/images/scaling-global-flow.png
   overlay_filter: 0.3
-  caption: "Building global compliance & workforce scalability"
+  # caption: "Building global compliance & workforce scalability"
+---
+<p class="page__lead" style="text-align:center;">
+  Building global compliance and workforce scalability
+</p>
+
 ---
 ## 📌 Problem  
 Managing 1,000+ contingent workers across 20+ countries created compliance risk, vendor complexity, and financial inefficiencies. No standardized processes existed, and system/vendor transitions risked payroll disruptions.  
