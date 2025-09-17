@@ -5,7 +5,11 @@ permalink: /case-studies/payroll-migration/
 header:
   overlay_image: /assets/images/payroll-migration-banner.png
   overlay_filter: 0.3
-  caption: "Launching compliant payroll for 500+ U.S. employees"
+  # caption: "Launching compliant payroll for 500+ U.S. employees"
+---
+<p class="page__lead" style="text-align:center;">
+  Launching compliant payroll for 500+ U.S. employees
+</p>
 ---
 
 💵 Payroll Migration
