@@ -10,11 +10,11 @@ header:
 <p class="page__lead" style="text-align:center;">
   Launching compliant payroll for 500+ U.S. employees
 </p>
-
+---
 
 💵 Payroll Migration
 
-📌 Problem
+## 📌 Problem  
 
 A global Employer of Record (EOR) provider had no in-house U.S. payroll function. Without established workflows, systems, or compliance structures, the organization faced:
 
@@ -24,17 +24,17 @@ No scalable processes to onboard or pay employees in the U.S.
 
 High dependency on manual workarounds.
 
-⚙️ Solution
+## ⚙️ Solution
 
 I was brought in to build U.S. payroll operations from the ground up:
 
-System Setup
+## System Setup
 
 Migrated payroll into the company’s systems where no U.S. payroll function previously existed.
 
 Partnered cross-functionally with HR, Finance, and Legal to align compliance workflows.
 
-Process Design
+## Process Design
 
 Created payroll workflows that covered onboarding, time/attendance, and pay cycle execution.
 
@@ -46,7 +46,7 @@ Processed payroll for 500+ U.S. employees with accuracy and timeliness.
 
 Implemented error-checking protocols to reduce manual discrepancies.
 
-📈 Results
+## 📈 Results
 
 Successfully launched and scaled U.S. payroll for 500+ employees.
 
@@ -56,7 +56,7 @@ Reduced payroll errors and manual interventions.
 
 Built sustainable payroll processes that supported future growth.
 
-💡 Business Value
+## 💡 Business Value
 
 This project demonstrated how to:
 
