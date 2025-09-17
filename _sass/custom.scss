@@ -563,3 +563,12 @@ blockquote {
     max-width: 1200px; /* Keep text lines readable */
   }
 }
+/* Force center alignment for hero captions */
+.page__hero-caption {
+  text-align: center !important;
+  width: 100% !important;
+  left: 0 !important;
+  right: 0 !important;
+  margin: 0 auto !important;
+}
+
