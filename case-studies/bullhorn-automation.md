@@ -1,3 +1,14 @@
+---
+layout: single
+title: "Bullhorn Implementation & Workflow Automation"
+permalink: /case-studies/bullhorn-automation/
+header:
+  overlay_image: /assets/images/bullhorn-automation-banner.png
+  overlay_filter: 0.3
+  caption: "Reducing cycle time and boosting accuracy through HRIS ownership"
+
+---
+  
 ## 📌 Problem  
 Manual onboarding, mid-assignment, and offboarding processes were spread across Smartsheets and Zendesk. This created:  
 - Delays in onboarding-to-payroll cycle time.  
