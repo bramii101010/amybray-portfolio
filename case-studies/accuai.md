@@ -47,11 +47,39 @@ AccuAI demonstrates how AI can:
 - **Save Money** by catching duplicate or anomalous transactions early  
 - **Boost Compliance** with privacy-first handling aligned to SOC2/GDPR expectations  
 - **Improve Efficiency** by automating tedious review tasks  
- 
+
+ <svg width="850" height="90" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="20" width="120" height="50" fill="white" stroke="#9370DB"/>
+  <text x="40" y="50" font-size="14" fill="black">Upload CSV</text>
+  <line x1="130" y1="45" x2="160" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="160" y="20" width="200" height="50" fill="white" stroke="#9370DB"/>
+  <text x="170" y="50" font-size="14" fill="black">PII Detection & Redaction</text>
+  <line x1="360" y1="45" x2="390" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="390" y="20" width="250" height="50" fill="white" stroke="#9370DB"/>
+  <text x="400" y="45" font-size="14" fill="black">Anomaly Detection (Duplicates, Outliers, Negatives)</text>
+  <line x1="640" y1="45" x2="670" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="670" y="20" width="200" height="50" fill="white" stroke="#9370DB"/>
+  <text x="680" y="50" font-size="14" fill="black">Analytics & Visualizations</text>
+  <line x1="870" y1="45" x2="900" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="900" y="20" width="180" height="50" fill="white" stroke="#9370DB"/>
+  <text x="910" y="50" font-size="14" fill="black">Download Cleaned Data</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#9370DB"/>
+    </marker>
+  </defs>
+</svg>
+
 
 ---
 
 **🔗 Live Demo**  
 👉 [Try AccuAI](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/)  
+
 
 ---
