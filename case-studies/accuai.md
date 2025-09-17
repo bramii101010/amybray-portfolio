@@ -48,6 +48,9 @@ AccuAI demonstrates how AI can:
 - **Boost Compliance** with privacy-first handling aligned to SOC2/GDPR expectations  
 - **Improve Efficiency** by automating tedious review tasks  
 
+---
+
+## 📊 Process Flow  
  <svg width="850" height="90" xmlns="http://www.w3.org/2000/svg">
   <rect x="10" y="20" width="120" height="50" fill="white" stroke="#9370DB"/>
   <text x="40" y="50" font-size="14" fill="black">Upload CSV</text>
