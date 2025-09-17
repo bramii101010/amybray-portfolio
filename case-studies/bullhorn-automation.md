@@ -5,7 +5,10 @@ permalink: /case-studies/bullhorn-automation/
 header:
   overlay_image: /assets/images/bullhorn-automation-banner.png
   overlay_filter: 0.3
-  caption: "Reducing cycle time and boosting accuracy through HRIS ownership"
+  # caption: "Reducing cycle time and boosting accuracy through HRIS ownership"
+<p class="page__lead" style="text-align:center;">
+  Reducing cycle time and boosting accuracy through HRIS ownership
+</p>
 
 ---
   
