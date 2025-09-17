@@ -77,7 +77,9 @@ permalink: /case-studies/
 
 ---
 
-## Ready-to-Work Compliance Tracker (The Mom Project)  
-**Challenge:** Clients lacked visibility into worker authorization.  
-**Approach:** Designed tracker in Smartsheet, migrated to Salesforce, automated compliance alerts.  
-**Results:** Real-time compliance visibility, stronger client trust, audit readiness.  
+## ✨ AuniConnect – Employee Engagement Platform  
+**Challenge:** Employee engagement tools are often fragmented and impersonal.  
+**Approach:** Designed and built a unified engagement platform with an AI chatbot, Kudos Wall, challenges, and admin dashboards.  
+**Results:** Demonstrates HR tech innovation, blending HRIS workflows with AI to boost connection, recognition, and compliance readiness.  
+👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/auniconnect/)  
+
