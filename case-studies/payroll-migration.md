@@ -14,7 +14,7 @@ header:
 
 ## 💵 Payroll Migration
 
-## 📌 Problem  
+**📌 Problem** 
 
 A global Employer of Record (EOR) provider had no in-house U.S. payroll function. Without established workflows, systems, or compliance structures, the organization faced:
 
@@ -24,7 +24,7 @@ No scalable processes to onboard or pay employees in the U.S.
 
 High dependency on manual workarounds.
 
-## ⚙️ Solution
+**⚙️ Solution** 
 
 I was brought in to build U.S. payroll operations from the ground up:
 
@@ -46,7 +46,7 @@ Processed payroll for 500+ U.S. employees with accuracy and timeliness.
 
 Implemented error-checking protocols to reduce manual discrepancies.
 
-## 📈 Results
+**📈 Results**  
 
 Successfully launched and scaled U.S. payroll for 500+ employees.
 
@@ -56,7 +56,7 @@ Reduced payroll errors and manual interventions.
 
 Built sustainable payroll processes that supported future growth.
 
-## 💡 Business Value
+**💡 Business Value**  
 
 This project demonstrated how to:
 
