@@ -27,8 +27,8 @@ Tools: Streamlit, Python, Pandas, Plotly
   * Detects and redacts sensitive data (SSNs, emails, phone numbers, account numbers)
   * Flags anomalies such as duplicate payments, outliers, and negative transactions
   * Provides instant analytics with summary stats and interactive charts
-  * [View Live Demo](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/) | [View on GitHub](https://github.com/yourusername/ai-accounting-assistant)
-
+  * [View Live Demo](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/)
+  * 
 ---
 
 ## HR Dashboard Walkthrough  
