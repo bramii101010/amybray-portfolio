@@ -12,6 +12,7 @@ header:
 </p>
 
 ---
+## 🌍 Scaling Global Contingent Workforce  
 ## 📌 Problem  
 Managing 1,000+ contingent workers across 20+ countries created compliance risk, vendor complexity, and financial inefficiencies. No standardized processes existed, and system/vendor transitions risked payroll disruptions.  
 
