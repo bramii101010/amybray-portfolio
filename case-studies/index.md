@@ -23,11 +23,8 @@ permalink: /case-studies/
 
 ## 🛡️ AccuAI – AI Accounting Assistant  
 **Challenge:** Accounting teams face risk handling sensitive data (PII) while also needing to detect anomalies like duplicate payments and unusual transactions.  
-
 **Approach:** I built AccuAI, a privacy-first Streamlit app that automatically redacts sensitive data, flags anomalies, and generates instant analytics.  
-
 **Results:** Delivered a working prototype that demonstrates how AI can reduce compliance risk, prevent errors, and provide real-time financial insights.  
-
 👉 [Read Full Case Study →](/case-studies/accuai/)
 
 
