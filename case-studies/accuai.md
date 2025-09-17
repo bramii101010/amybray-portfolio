@@ -5,11 +5,11 @@ permalink: /case-studies/accuai/
 header:
   overlay_image: /assets/images/accuai-banner.png
   overlay_filter: 0.3
-  #caption: "Privacy-First AI for Accounting Teams"
+  # caption: "Privacy-First AI for Accounting Teams"
+---
 <p class="page__lead" style="text-align:center;">
   Privacy-first AI that redacts PII, detects anomalies, and delivers instant analytics
 </p>
-
 ---
 
 ## 🛡️ AccuAI – AI Accounting Assistant  
