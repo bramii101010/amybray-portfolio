@@ -12,7 +12,7 @@ header:
 </p>
 ---
   
-## 📌 Problem  
+**📌 Problem**  
 Manual onboarding, mid-assignment, and offboarding processes were spread across Smartsheets and Zendesk. This created:  
 - Delays in onboarding-to-payroll cycle time.  
 - Errors due to duplicate data entry.  
@@ -20,7 +20,7 @@ Manual onboarding, mid-assignment, and offboarding processes were spread across 
 
 ---
 
-## ⚙️ Solution  
+**⚙️ Solution** 
 I became the front office Bullhorn owner during implementation and migration, ensuring it was built to support the Talent Engagement team:  
 
 - **System Ownership**  
@@ -37,7 +37,7 @@ I became the front office Bullhorn owner during implementation and migration, en
 
 ---
 
-## 📈 Results  
+**📈 Results**  
 - **Reduced onboarding-to-payroll cycle time** by streamlining data capture.  
 - **Improved accuracy & compliance** with better access controls.  
 - **Removed IT bottlenecks** by enabling the team to manage workflows and automations directly.  
@@ -45,7 +45,7 @@ I became the front office Bullhorn owner during implementation and migration, en
 
 ---
 
-## 💡 Business Value  
+**💡 Business Value**   
 This project demonstrated how to:  
 - **Align HRIS implementations with business workflows** instead of forcing workarounds.  
 - **Enable People Ops teams** to operate independently of IT.  
