@@ -67,14 +67,13 @@ permalink: /case-studies/
 
 👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/accuai/)
 
-
-
 ---
 
-## Salesforce + Bullhorn Integration (The Mom Project)  
-**Challenge:** Onboarding-to-payroll cycle was too long.  
-**Approach:** Migrated workflows into Salesforce + Bullhorn, redesigned processes, built SOPs.  
-**Results:** Reduced cycle time by 30%, improved accuracy, boosted client satisfaction.  
+## 🛠️ Bullhorn Implementation & Workflow Automation  
+**Challenge:** Manual onboarding workflows created errors, delays, and IT bottlenecks.  
+**Approach:** Led Bullhorn front office implementation, built field mappings, and designed automations to match business needs.  
+**Results:** Reduced onboarding cycle time, improved accuracy, and enabled scalable self-service for the Talent Engagement team.  
+👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/bullhorn-automation/)  
 
 ---
 
