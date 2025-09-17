@@ -4,44 +4,29 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# 💻 Projects  
+## Featured Projects
 
-A selection of portfolio projects demonstrating my experience in **HRIS optimization, payroll operations, compliance, and people analytics**.  
+- 💻 **AuniConnect Engagement App**  
+  Flask-based HRIS engagement platform with chatbot “Aunikah,” Kudos Wall, and admin dashboards.  
+  👉 [Read Full Project →]({{ site.baseurl }}/projects/auniconnect/)
 
----
+- 🗂️ **SQL Walkthrough for People Analytics**  
+  SQL queries for turnover and compliance analysis on employee datasets.  
+  👉 [View Walkthrough →](https://amybray0315.myportfolio.com/sql-walkthrough-for-people-analytics)
 
-## AuniConnect – Employee Engagement App  
-**Tools:** Flask, Python, Google Sheets  
-- Flask-based HR engagement app built as a portfolio project  
-- Features include kudos wall, recognition tags, weekly challenges, and AI chatbot “Aunikah”  
-- Demonstrates ability to design and implement HR tech to boost engagement  
-- 🔗 [View on GitHub](https://github.com/yourrepo/auniconnect)  
+- 📊 **HRIS Automation Dashboard**  
+  Power BI + Smartsheet dashboards for payroll cycle and compliance tracking.  
+  👉 [Read Full Project →]({{ site.baseurl }}/projects/hris-dashboard/)
 
----
+- ⚡ **Salesforce Agentforce HR Prototype**  
+  HR case management prototype built on Salesforce with automated workflows.  
+  👉 [Read Full Project →]({{ site.baseurl }}/projects/salesforce-agentforce/)
 
-## AccuAI – AI Accounting Assistant
+- 🧾 **Payroll Migration Project (Velocity Global)**  
+  Migrated U.S. payroll into global EOR system, ensuring compliance for 500+ employees.  
+  👉 [Read Full Project →]({{ site.baseurl }}/projects/payroll-migration/)
 
-Tools: Streamlit, Python, Pandas, Plotly  
+- 🔧 **Bullhorn Implementation & Workflow Automation**  
+  Customized ATS/CRM to reduce onboarding-to-payroll cycle time.  
+  👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/bullhorn-automation/)
 
-  * Privacy-first accounting analysis app with AI features  
-  * Detects and redacts sensitive data (SSNs, emails, phone numbers, account numbers)  
-  * Flags anomalies such as duplicate payments, outliers, and negative transactions  
-  * Provides instant analytics with summary stats and interactive charts  
-  * [View Live Demo](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/)  
-
----
-
-## HR Dashboard Walkthrough  
-**Tools:** Google Sheets, Looker Studio (Data Studio)  
-- Built an interactive HR dashboard using sample HR data  
-- Tracked onboarding cycle time, assignment end dates, and compliance tasks  
-- Included color-coded alerts and automated formulas to track employee progress  
-- ![HR Dashboard Screenshot](../assets/dashboard-sample.png)  
-
----
-
-## SQL for People Analytics  
-**Tools:** SQL (sample HR dataset)  
-- Designed queries to analyze workforce trends, including tenure, turnover, and assignment type  
-- Example: average contractor tenure by employment type (W2 vs 1099 vs Direct Hire)  
-- Helped HRBP team identify workforce patterns and opportunities for retention  
