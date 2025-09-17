@@ -34,10 +34,11 @@ permalink: /case-studies/
 
 ---
 
-## Payroll Migration at Velocity Global  
+## 💵 Payroll Migration  
 **Challenge:** No U.S. payroll function in-house.  
 **Approach:** Migrated U.S. payroll from scratch, partnered cross-functionally, built compliance workflows.  
 **Results:** Launched payroll for 500+ employees, ensuring accurate, compliant processing.  
+👉 [Read Full Case Study →](/case-studies/payroll-migration/)   
 
 ---
 
