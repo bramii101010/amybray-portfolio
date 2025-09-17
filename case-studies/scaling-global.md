@@ -66,6 +66,32 @@ For organizations scaling globally, this program demonstrated how to:
 
 ## 📊 Process Flow  
 
-![Scaling Global Workforce Process Flow](/assets/images/scaling-global-flow.png)  
+<svg width="950" height="90" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="20" width="150" height="50" fill="white" stroke="#9370DB"/>
+  <text x="20" y="50" font-size="14" fill="black">Onboarding Request</text>
+  <line x1="160" y1="45" x2="190" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="190" y="20" width="170" height="50" fill="white" stroke="#9370DB"/>
+  <text x="200" y="50" font-size="14" fill="black">Worker Setup (EOR + Accounts)</text>
+  <line x1="360" y1="45" x2="390" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="390" y="20" width="180" height="50" fill="white" stroke="#9370DB"/>
+  <text x="400" y="50" font-size="14" fill="black">Contract Creation & EOR Acceptance</text>
+  <line x1="570" y1="45" x2="600" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="600" y="20" width="210" height="50" fill="white" stroke="#9370DB"/>
+  <text x="610" y="45" font-size="14" fill="black">Payroll Processing (Billing, Vendor, Revenue)</text>
+  <line x1="810" y1="45" x2="840" y2="45" stroke="#9370DB" marker-end="url(#arrow)"/>
+
+  <rect x="840" y="20" width="180" height="50" fill="white" stroke="#9370DB"/>
+  <text x="850" y="50" font-size="14" fill="black">Financial Controls & Forecasting</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#9370DB"/>
+    </marker>
+  </defs>
+</svg>
+
 
 ---
