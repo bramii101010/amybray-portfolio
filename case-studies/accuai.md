@@ -10,7 +10,7 @@ header:
 
 ## 🛡️ AccuAI – AI Accounting Assistant  
 **📌 Problem**  
-Accounting teams regularly handle sensitive **financial data**  (SSNs, account numbers, employee emails) while also facing risks from **duplicate payments, negative transactions, and unusual patterns** that can slip through manual reviews.  
+Accounting teams regularly handle sensitive financial data (SSNs, account numbers, employee emails) while also facing risks from duplicate payments, negative transactions, and unusual patterns that can slip through manual reviews.  
 
 - **Privacy Risk**: Exposing personal identifiers in audit or vendor reports  
 - **Compliance Risk**: Not meeting SOC2, GDPR, or HIPAA data handling requirements  
@@ -22,7 +22,7 @@ Traditional tools focus either on redaction or analysis, but not both in real ti
 
 **⚙️ Solution** 
 
-I designed and built **AccuAI**, a **privacy-first Streamlit application** that demonstrates how AI can be applied directly to accounting workflows.  
+I designed and built AccuAI, a privacy-first Streamlit application that demonstrates how AI can be applied directly to accounting workflows.  
 
 **Key Features:**  
 - 🔐 **PII Detection & Redaction** (SSNs, emails, phone numbers, account numbers)  
@@ -41,7 +41,7 @@ I designed and built **AccuAI**, a **privacy-first Streamlit application** that 
 ---
 
 **💡 Business Value**  
-For a **Chief Accounting Officer (CAO)**, **AccuAI** demonstrates how AI can:  
+For a Chief Accounting Officer (CAO), AccuAI demonstrates how AI can:  
 
 - **Reduce Risk** by ensuring sensitive data never leaves the system unredacted  
 - **Save Money** by catching duplicate or anomalous transactions early  
