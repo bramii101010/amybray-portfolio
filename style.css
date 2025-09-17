@@ -24,11 +24,14 @@ body {
 .page-header .btn {
   display: none !important;
 }
-/* Center case study captions in hero banners */
+/* Force center alignment for hero captions */
 .page__hero-caption {
-  text-align: center;
-  width: 100%;
-  left: 0;
+  text-align: center !important;
+  width: 100% !important;
+  left: 0 !important;
+  right: 0 !important;
+  margin: 0 auto !important;
 }
+
 
 
