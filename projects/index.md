@@ -19,12 +19,15 @@ A selection of portfolio projects demonstrating my experience in **HRIS optimiza
 
 ---
 
-## Financial Forecasting Model (Upwork)  
-**Tools:** Excel, Smartsheet  
-- Created a workforce cost forecasting model for ~1,000 contractors across 20+ countries  
-- Used to align Finance & HR on contractor spend, capacity, and workforce planning  
-- **Impact:** improved visibility into spend and reduced forecasting errors by 20%  
-- 📊 [Download Sample PDF](../assets/financial-forecasting-sample.pdf)  
+## AI Accounting Assistant
+
+Tools: Streamlit, Python, Pandas, Plotly
+
+  * Built a privacy-first accounting analysis app with AI features
+  * Detects and redacts sensitive data (SSNs, emails, phone numbers, account numbers)
+  * Flags anomalies such as duplicate payments, outliers, and negative transactions
+  * Provides instant analytics with summary stats and interactive charts
+  * [View Live Demo](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/) | [View on GitHub](https://github.com/yourusername/ai-accounting-assistant)
 
 ---
 
