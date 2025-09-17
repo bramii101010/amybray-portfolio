@@ -41,7 +41,7 @@ I designed and built AccuAI, a privacy-first Streamlit application that demonstr
 ---
 
 **💡 Business Value**  
-For a Chief Accounting Officer (CAO), AccuAI demonstrates how AI can:  
+AccuAI demonstrates how AI can:  
 
 - **Reduce Risk** by ensuring sensitive data never leaves the system unredacted  
 - **Save Money** by catching duplicate or anomalous transactions early  
