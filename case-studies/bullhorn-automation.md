@@ -21,7 +21,7 @@ Manual onboarding, mid-assignment, and offboarding processes were spread across 
 ---
 
 ## ⚙️ Solution  
-I became the **front office Bullhorn owner** during implementation and migration, ensuring it was built to support the Talent Engagement team:  
+I became the front office Bullhorn owner during implementation and migration, ensuring it was built to support the Talent Engagement team:  
 
 - **System Ownership**  
   - Learned Bullhorn front office configuration, including **field mapping** and **workflow automation**.  
