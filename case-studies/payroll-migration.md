@@ -9,6 +9,7 @@ header:
 ---
 
 💵 Payroll Migration
+
 📌 Problem
 
 A global Employer of Record (EOR) provider had no in-house U.S. payroll function. Without established workflows, systems, or compliance structures, the organization faced:
