@@ -11,6 +11,8 @@ header:
   Reducing cycle time and boosting accuracy through HRIS ownership
 </p>
 ---
+
+## 🛠️ Bullhorn Automation  
   
 **📌 Problem**  
 Manual onboarding, mid-assignment, and offboarding processes were spread across Smartsheets and Zendesk. This created:  
