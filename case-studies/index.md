@@ -73,7 +73,7 @@ permalink: /case-studies/
 **Challenge:** Manual onboarding workflows created errors, delays, and IT bottlenecks.  
 **Approach:** Led Bullhorn front office implementation, built field mappings, and designed automations to match business needs.  
 **Results:** Reduced onboarding cycle time, improved accuracy, and enabled scalable self-service for the Talent Engagement team.  
-👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/bullhorn-automation/)  
+👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/bullhorn-automation/)
 
 ---
 
