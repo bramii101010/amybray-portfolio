@@ -75,5 +75,3 @@ Example: Employee asks *“When will I get my paycheck?”*
 - Flow Automation  
 
 ---
-
-👉 [View the Repository on GitHub](https://github.com/bramii101010/your-agentforce-repo)  
