@@ -98,7 +98,7 @@ AccuAI demonstrates how AI can:
 ![Analysis Summary & Metrics](../assets/screenshots/AccuAI/accountsummary.png)  
 *Summary metrics including total records, anomalies detected, and PII redacted.*
 
-!!Privacy Protection Results](../assets/screenshots/accuai/privacyprotectionresults.png) 
+!!Privacy Protection Results](../assets/screenshots/AccuAI/privacyprotectionresults.png) 
 *Summary metrics including total records, anomalies detected, and PII redacted.*
 
 ![Anomalies](../assets/screenshots/AccuAI/anomalies.png)  
