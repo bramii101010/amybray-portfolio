@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3
 ---
 
-⚡ **Overview**  
+⚡ Overview  
 This project is a Salesforce Agentforce prototype designed for HR case management and automation. It demonstrates how Salesforce can be adapted for People Ops use cases, providing a unified platform for handling employee requests and workflows. 
 ---
 
