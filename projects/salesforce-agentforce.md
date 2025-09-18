@@ -46,9 +46,6 @@ Sample intents:
 - “Onboarding Checklist”  
 - “Update My Contact Info”  
 
-*(Optional close-up of one intent)*  
-![Intent Sample]({{ site.baseurl }}/assets/images/agentforce/intent-sample.png)  
-
 ---
 
 ### 3. Automations (Flows)
@@ -74,9 +71,6 @@ Example: Employee asks *“When will I get my paycheck?”*
 - Dashboard updates  
 
 ![Demo Chat]({{ site.baseurl }}/assets/images/agentforce/demo-chat.png)  
-
-*(Optional)*  
-![Case Record]({{ site.baseurl }}/assets/images/agentforce/case-record.png)  
 
 ---
 
