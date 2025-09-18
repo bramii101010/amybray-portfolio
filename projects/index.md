@@ -10,10 +10,6 @@ permalink: /projects/
   Flask-based HRIS engagement platform with chatbot “Aunikah,” Kudos Wall, and admin dashboards.  
   👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/auniconnect/)
 
-- 🗂️ **SQL Walkthrough for People Analytics**  
-  SQL queries for turnover and compliance analysis on employee datasets.  
-  👉 [View Walkthrough →](https://amybray0315.myportfolio.com/sql-walkthrough-for-people-analytics)
-
 - 📊 **HRIS Automation Dashboard**  
   Power BI + Smartsheet dashboards for payroll cycle and compliance tracking.  
   👉 [Read Full Project →]({{ site.baseurl }}/projects/hris-dashboard/)
