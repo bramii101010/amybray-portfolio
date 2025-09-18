@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3
 ---
 
-💻 **Overview**  
+✨ **Overview**  
 AuniConnect is a Flask-based HR engagement platform designed to improve employee connection and streamline People Ops support.  
 
 🔑 **Key Features**
