@@ -8,7 +8,7 @@ permalink: /projects/
 
 - 💻 **AuniConnect Engagement App**  
   Flask-based HRIS engagement platform with chatbot “Aunikah,” Kudos Wall, and admin dashboards.  
-  👉 [Read Full Project →]({{ site.baseurl }}/projects/auniconnect/)
+  👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/auniconnect/)
 
 - 🗂️ **SQL Walkthrough for People Analytics**  
   SQL queries for turnover and compliance analysis on employee datasets.  
