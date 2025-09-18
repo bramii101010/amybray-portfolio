@@ -8,7 +8,20 @@ header:
 ---
 
 ⚡ **Overview**  
-This project is a Salesforce Agentforce prototype designed for HR case management and automation. It demonstrates how Salesforce can be adapted for People Ops use cases, providing a unified platform for handling employee requests and workflows.  
+This project is a Salesforce Agentforce prototype designed for HR case management and automation. It demonstrates how Salesforce can be adapted for People Ops use cases, providing a unified platform for handling employee requests and workflows. 
+---
+
+## 🚀 Project Summary
+
+This project showcases how I configured Salesforce Agentforce for HR case management.  
+I built a prototype HR assistant (“Aunikah HR Assistant”) that:  
+- Uses custom objects to track employees and HR cases  
+- Handles payroll and onboarding queries through Agentforce Builder  
+- Automates case routing with Salesforce Flows  
+- Displays real-time insights in a Lightning dashboard  
+
+The following sections walk through the setup with screenshots from my Salesforce Developer Org.
+
 
 ---
 
