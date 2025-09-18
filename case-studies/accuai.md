@@ -89,5 +89,27 @@ AccuAI demonstrates how AI can:
 **🔗 Live Demo**  
 👉 [Try AccuAI](https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/)  
 
+## 🖼️ Screenshots
+(Screenshots with Sample Data)
+
+![Top Section](../assets/screenshots/AccuAI/top.png)  
+*Main dashboard header and key security badges.*
+
+![Analysis Summary & Metrics](../assets/screenshots/accuai/accountsummary.png)  
+*Summary metrics including total records, anomalies detected, and PII redacted.*
+
+!!Privacy Protection Results](../assets/screenshots/accuai/privacyprotectionresults.png) 
+*Summary metrics including total records, anomalies detected, and PII redacted.*
+
+![Anomalies](../assets/screenshots/accuai/anomalies.png)  
+*Anomaly detection showing duplicate payments and unusual amounts.*
+
+![Charts](../assets/screenshots/accuai/charts.png)  
+*Histogram and box plot visualizing transaction distribution and outliers.*
+
+![Data Table and Download Button](../assets/screenshots/accuai/tableanddownload.png)  
+*Processed data with redacted PII (first 20 rows).*
+*Option to securely download the cleaned dataset.*
+
 
 ---
