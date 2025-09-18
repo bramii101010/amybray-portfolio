@@ -95,19 +95,19 @@ AccuAI demonstrates how AI can:
 ![Top Section](../assets/screenshots/AccuAI/top.png)  
 *Main dashboard header and key security badges.*
 
-![Analysis Summary & Metrics](../assets/screenshots/AccuAi/accountsummary.png)  
+![Analysis Summary & Metrics](../assets/screenshots/AccuAI/accountsummary.png)  
 *Summary metrics including total records, anomalies detected, and PII redacted.*
 
 !!Privacy Protection Results](../assets/screenshots/accuai/privacyprotectionresults.png) 
 *Summary metrics including total records, anomalies detected, and PII redacted.*
 
-![Anomalies](../assets/screenshots/AccuAi/anomalies.png)  
+![Anomalies](../assets/screenshots/AccuAI/anomalies.png)  
 *Anomaly detection showing duplicate payments and unusual amounts.*
 
-![Charts](../assets/screenshots/AccuAi/charts.png)  
+![Charts](../assets/screenshots/AccuAI/charts.png)  
 *Histogram and box plot visualizing transaction distribution and outliers.*
 
-![Data Table and Download Button](../assets/screenshots/AccuAi/tableanddownload.png)  
+![Data Table and Download Button](../assets/screenshots/AccuAI/tableanddownload.png)  
 *Processed data with redacted PII (first 20 rows).*
 *Option to securely download the cleaned dataset.*
 
