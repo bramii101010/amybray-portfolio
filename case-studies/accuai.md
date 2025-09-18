@@ -108,7 +108,7 @@ AccuAI demonstrates how AI can:
 *Histogram and box plot visualizing transaction distribution and outliers.*
 
 ![Data Table and Download Button](../assets/screenshots/AccuAI/tableanddownload.png)  
-*Processed data with redacted PII (first 20 rows).*
+*Processed data with redacted PII (displaying first 10 rows).*
 *Option to securely download the cleaned dataset.*
 
 
