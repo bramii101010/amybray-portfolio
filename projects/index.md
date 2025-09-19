@@ -20,7 +20,7 @@ permalink: /projects/
 
 - 💵 **Payroll Migration Project**  
   Migrated U.S. payroll into global EOR system, ensuring compliance for 500+ employees.  
-  👉 [Read Full Project →]({{ site.baseurl }}/projects/payroll-migration/)
+  👉 [Read Full Case Study →]({{ site.baseurl }}/case-studies/payroll-migration/)
 
 - 🔧 **Bullhorn Implementation & Workflow Automation**  
   Customized ATS/CRM to reduce onboarding-to-payroll cycle time.  
