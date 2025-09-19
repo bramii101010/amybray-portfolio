@@ -36,7 +36,7 @@ I designed and documented the **end-to-end contingent workforce process**, conne
     - Company Revenue Cut  
 
 - **Financial Controls**  
-  - Oversaw $1.2M+ weekly flows.  
+  - Oversaw $250k+ weekly flows.  
   - Performed shortfall “true-ups” to ensure vendor accounts were fully funded.  
   - Built forecasting tools to align finance planning.  
 
