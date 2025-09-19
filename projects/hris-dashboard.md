@@ -21,4 +21,3 @@ The HRIS Automation Dashboard was built to streamline onboarding, payroll cycle 
 - Smartsheet  
 - Excel  
 
-👉 [View the Repository on GitHub](https://github.com/bramii101010/your-hris-dashboard-repo)
