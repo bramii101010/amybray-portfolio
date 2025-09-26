@@ -1,41 +1,106 @@
-remote_theme: mmistakes/minimal-mistakes
+# Site settings
 title: "Amy Bray Portfolio"
 name: "Amy Bray"
 description: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
+url: "https://bramii101010.github.io"
+baseurl: "/amybray-portfolio"
 
-# Additional Minimal Mistakes settings
-minimal_mistakes_skin: "default"
-search: true
-search_full_content: true
-
-# Social links
+# Author information
 author:
   name: "Amy Bray"
   bio: "People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs"
+  avatar: "/assets/images/avatar.jpg" # Add your photo
+  location: "Remote"
+  email: "amy@example.com" # Update with your real email
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bramii101010"
-
-# Site settings
-url: "https://bramii101010.github.io"
-baseurl: "/amybray-portfolio"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourusername" # Update with your LinkedIn
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-include-cache
 
-# Custom CSS
-head_scripts:
-  - /assets/css/main.css
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+  case-studies:
+    output: true
+    permalink: /:collection/:name/
 
 # Defaults
 defaults:
+  # Homepage
   - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
-      layout: single
+      layout: "default"
+  # Posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # Projects
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "case-study"
+      author_profile: false
+      share: true
+  # Case Studies
+  - scope:
+      path: ""
+      type: "case-studies"
+    values:
+      layout: "case-study"
+      author_profile: false
+      share: true
+
+# Site search
+search: true
+search_full_content: true
+
+# Analytics (uncomment and add your tracking ID)
+# google_analytics: "G-XXXXXXXXXX"
+
+# SEO settings
+lang: "en-US"
+logo: "/assets/images/logo.png" # Add your logo
+
+# Social sharing
+twitter:
+  username: "yourusername" # Update if you have Twitter
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
