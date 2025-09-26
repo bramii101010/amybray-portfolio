@@ -1,0 +1,210 @@
+---
+layout: default
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-text">✨ HR Technology Specialist</span>
+      </div>
+      <h1>{{ page.hero_title | default: "People Ops & HRIS Solutions" }}</h1>
+      <p class="hero-subtitle">
+        {{ page.hero_subtitle | default: site.description }}
+      </p>
+      <div class="cta-group">
+        <a class="cta-button primary" href="{{ '/projects/' | relative_url }}">
+          <span>View My Work</span>
+          <span>→</span>
+        </a>
+        <a class="cta-button secondary" href="{{ '/contact/' | relative_url }}">
+          <span>Let's Connect</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Featured Work Preview -->
+<section class="section featured-work">
+  <div class="container">
+    <div class="section-header">
+      <h2>Featured Solutions</h2>
+      <p class="section-subtitle">Real projects solving real HR challenges</p>
+    </div>
+    
+    <div class="featured-grid">
+      <!-- AccuAI Featured Project -->
+      <article class="featured-card primary">
+        <div class="card-header">
+          <div class="card-icon">🤖</div>
+          <div class="card-meta">
+            <h3>AccuAI - AI Accounting Assistant</h3>
+            <span class="card-tag">AI Prototype</span>
+          </div>
+        </div>
+        <p>Privacy-first AI that redacts PII, detects anomalies, and delivers instant analytics for accounting teams. Automatically handles sensitive data while providing real-time insights.</p>
+        <div class="card-footer">
+          <a href="https://ai-accounting-assistant-9sa7dkfi2llxvt8ng4shm7.streamlit.app/" class="card-link" target="_blank" rel="noopener">Try Demo →</a>
+          <div class="tech-tags">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">Streamlit</span>
+            <span class="tech-tag">AI/ML</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- AuniConnect Featured Project -->
+      <article class="featured-card">
+        <div class="card-header">
+          <div class="card-icon">🔄</div>
+          <div class="card-meta">
+            <h3>AuniConnect Engagement App</h3>
+            <span class="card-tag">Web Application</span>
+          </div>
+        </div>
+        <p>Flask-based HR engagement platform with AI-powered chatbot "Aunikah" for HR Q&A, Kudos Wall for recognition, and admin dashboards for employee management.</p>
+        <div class="card-footer">
+          <a href="https://github.com/bramii101010/auniconnect_playground" class="card-link" target="_blank" rel="noopener">View Code →</a>
+          <div class="tech-tags">
+            <span class="tech-tag">Flask</span>
+            <span class="tech-tag">JavaScript</span>
+            <span class="tech-tag">AI Chatbot</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- SQL Walkthrough -->
+      <article class="featured-card">
+        <div class="card-header">
+          <div class="card-icon">📊</div>
+          <div class="card-meta">
+            <h3>SQL Data Analysis Walkthrough</h3>
+            <span class="card-tag">Tutorial</span>
+          </div>
+        </div>
+        <p>Comprehensive guide to SQL data analysis for HR professionals, covering employee analytics, compensation analysis, and performance metrics.</p>
+        <div class="card-footer">
+          <a href="{{ '/projects/sql-walkthrough/' | relative_url }}" class="card-link">Learn More →</a>
+          <div class="tech-tags">
+            <span class="tech-tag">SQL</span>
+            <span class="tech-tag">Data Analysis</span>
+            <span class="tech-tag">HR Analytics</span>
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- Custom Home Content -->
+{% if content and content != empty %}
+<section class="section home-content">
+  <div class="container">
+    <div class="content-wrapper">
+      {{ content }}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- Skills & Approach -->
+<section class="section approach">
+  <div class="container">
+    <div class="approach-content">
+      <div class="approach-text">
+        <h2>My Approach</h2>
+        <p class="large-text">I believe technology should make work more human, not less. Every solution I build starts with understanding real user pain points and ends with measurable improvements to their daily experience.</p>
+        
+        <div class="principles-grid">
+          <div class="principle">
+            <h4>🎯 User-Centered Design</h4>
+            <p>Start with user research, end with user satisfaction</p>
+          </div>
+          <div class="principle">
+            <h4>⚡ Performance First</h4>
+            <p>Fast, reliable systems that scale with your team</p>
+          </div>
+          <div class="principle">
+            <h4>🔒 Data Integrity</h4>
+            <p>Secure, compliant solutions you can trust</p>
+          </div>
+          <div class="principle">
+            <h4>🔄 Iterative Improvement</h4>
+            <p>Continuous feedback loops and optimization</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="skills-visual">
+        <div class="skill-category">
+          <h4>Technical Skills</h4>
+          <div class="skills-list">
+            <span class="skill-item">Python & Flask</span>
+            <span class="skill-item">JavaScript & HTML/CSS</span>
+            <span class="skill-item">SQL & Data Analysis</span>
+            <span class="skill-item">Streamlit & AI/ML</span>
+            <span class="skill-item">HRIS Integration</span>
+            <span class="skill-item">Process Automation</span>
+          </div>
+        </div>
+        
+        <div class="skill-category">
+          <h4>HR Technology</h4>
+          <div class="skills-list">
+            <span class="skill-item">HRIS Systems</span>
+            <span class="skill-item">Payroll Solutions</span>
+            <span class="skill-item">Employee Engagement</span>
+            <span class="skill-item">Compliance & Security</span>
+            <span class="skill-item">Analytics & Reporting</span>
+            <span class="skill-item">Global Workforce</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Quick Stats -->
+<section class="section stats">
+  <div class="container">
+    <div class="stats-grid">
+      <div class="stat-item">
+        <div class="stat-number">AI-Powered</div>
+        <div class="stat-label">Privacy Protection</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">Real-Time</div>
+        <div class="stat-label">Anomaly Detection</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">Instant</div>
+        <div class="stat-label">Analytics & Insights</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">Global</div>
+        <div class="stat-label">Workforce Solutions</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="section cta-section">
+  <div class="container">
+    <div class="cta-content">
+      <h2>Ready to streamline your HR processes?</h2>
+      <p>Let's discuss how we can build solutions that make your team more efficient and your employees happier.</p>
+      <div class="cta-buttons">
+        <a href="{{ '/contact/' | relative_url }}" class="cta-button primary">
+          <span>Start a Conversation</span>
+          <span>→</span>
+        </a>
+        <a href="{{ '/projects/' | relative_url }}" class="cta-button secondary">
+          <span>Explore All Projects</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
