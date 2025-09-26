@@ -1,0 +1,172 @@
+---
+layout: default
+---
+
+<article class="case-study-detail">
+  <!-- Hero Section -->
+  <section class="case-study-hero">
+    <div class="container">
+      {% if page.header.overlay_image %}
+      <div class="case-study-image-header" style="background-image: url('{{ page.header.overlay_image | relative_url }}');">
+        <div class="overlay-filter"></div>
+      {% endif %}
+        <div class="case-study-hero-content">
+          <div class="case-study-meta">
+            <span class="case-study-type">{{ page.category | default: "Case Study" }}</span>
+            {% if page.duration %}
+            <span class="case-study-duration">{{ page.duration }}</span>
+            {% endif %}
+            {% if page.client %}
+            <span class="case-study-client">{{ page.client }}</span>
+            {% endif %}
+          </div>
+          
+          <h1 class="case-study-title">{{ page.title }}</h1>
+          
+          {% if page.excerpt %}
+          <p class="case-study-excerpt">{{ page.excerpt }}</p>
+          {% endif %}
+          
+          {% if page.demo_url %}
+          <div class="case-study-actions">
+            <a href="{{ page.demo_url }}" class="cta-button primary" target="_blank" rel="noopener">
+              <span>Try Demo</span>
+              <span>→</span>
+            </a>
+            {% if page.github_url %}
+            <a href="{{ page.github_url }}" class="cta-button secondary" target="_blank" rel="noopener">
+              <span>View Code</span>
+              <span>↗</span>
+            </a>
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+      {% if page.header.overlay_image %}
+      </div>
+      {% endif %}
+    </div>
+  </section>
+
+  <!-- Content Section -->
+  <section class="case-study-content">
+    <div class="container">
+      <div class="content-grid">
+        <!-- Main Content -->
+        <div class="main-content">
+          <div class="content-wrapper">
+            {{ content }}
+          </div>
+        </div>
+        
+        <!-- Sidebar -->
+        <aside class="content-sidebar">
+          <!-- Quick Info -->
+          <div class="sidebar-section">
+            <h3>Project Details</h3>
+            <div class="detail-item">
+              <span class="detail-label">Type</span>
+              <span class="detail-value">{{ page.project_type | default: "Case Study" }}</span>
+            </div>
+            {% if page.duration %}
+            <div class="detail-item">
+              <span class="detail-label">Duration</span>
+              <span class="detail-value">{{ page.duration }}</span>
+            </div>
+            {% endif %}
+            {% if page.team_size %}
+            <div class="detail-item">
+              <span class="detail-label">Team Size</span>
+              <span class="detail-value">{{ page.team_size }}</span>
+            </div>
+            {% endif %}
+            {% if page.tools %}
+            <div class="detail-item">
+              <span class="detail-label">Tools Used</span>
+              <div class="tools-list">
+                {% for tool in page.tools %}
+                <span class="tool-tag">{{ tool }}</span>
+                {% endfor %}
+              </div>
+            </div>
+            {% endif %}
+          </div>
+
+          <!-- Key Metrics -->
+          {% if page.metrics %}
+          <div class="sidebar-section">
+            <h3>Key Results</h3>
+            {% for metric in page.metrics %}
+            <div class="metric-item">
+              <div class="metric-value">{{ metric.value }}</div>
+              <div class="metric-label">{{ metric.label }}</div>
+            </div>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          <!-- Technologies -->
+          {% if page.technologies %}
+          <div class="sidebar-section">
+            <h3>Technologies</h3>
+            <div class="tech-tags">
+              {% for tech in page.technologies %}
+              <span class="tech-tag">{{ tech }}</span>
+              {% endfor %}
+            </div>
+          </div>
+          {% endif %}
+
+          <!-- Links -->
+          {% if page.demo_url or page.github_url or page.live_url %}
+          <div class="sidebar-section">
+            <h3>Links</h3>
+            {% if page.demo_url %}
+            <a href="{{ page.demo_url }}" class="sidebar-link" target="_blank" rel="noopener">
+              <span>🚀 Live Demo</span>
+              <span>↗</span>
+            </a>
+            {% endif %}
+            {% if page.github_url %}
+            <a href="{{ page.github_url }}" class="sidebar-link" target="_blank" rel="noopener">
+              <span>💻 View Code</span>
+              <span>↗</span>
+            </a>
+            {% endif %}
+            {% if page.live_url %}
+            <a href="{{ page.live_url }}" class="sidebar-link" target="_blank" rel="noopener">
+              <span>🌐 Live Site</span>
+              <span>↗</span>
+            </a>
+            {% endif %}
+          </div>
+          {% endif %}
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- Related Projects -->
+  {% assign related_posts = site.projects | where_exp: "item", "item.url != page.url" | sample: 3 %}
+  {% if related_posts.size > 0 %}
+  <section class="section related-projects">
+    <div class="container">
+      <div class="section-header">
+        <h2>Related Projects</h2>
+      </div>
+      
+      <div class="related-grid">
+        {% for project in related_posts %}
+        <article class="related-card">
+          <div class="card-content">
+            <h3>{{ project.title }}</h3>
+            <p>{{ project.excerpt | strip_html | truncate: 120 }}</p>
+            <a href="{{ project.url | relative_url }}" class="card-link">Learn More →</a>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+</article>
