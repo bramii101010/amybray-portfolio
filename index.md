@@ -1,14 +1,11 @@
 ---
-layout: single
+layout: home
 title: "Home"
-permalink: /
+hero_title: "People Ops & HRIS Solutions"
+hero_subtitle: "I design and optimize HRIS, payroll, and employee engagement systems to improve efficiency, compliance, and employee experience."
 ---
 
-# 👋 Hi, I’m Amy Bray  
-**People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs**
-
-I design and optimize HRIS, payroll, and employee engagement systems to improve efficiency, compliance, and employee experience.  
-This portfolio highlights my projects, case studies, and tools I’ve built.  
+This portfolio highlights my projects, case studies, and tools I've built.
 
 
 
