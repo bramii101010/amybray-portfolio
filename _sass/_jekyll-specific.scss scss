@@ -1,0 +1,141 @@
+/* ======================================================================
+   _sass/_jekyll-specific.scss - Jekyll Integration Styles
+   ====================================================================== */
+
+// Jekyll content processing
+.content-wrapper {
+  .page__content {
+    margin: 0;
+    padding: 0;
+  }
+
+  .page__lead {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    text-align: center;
+    margin: 2rem 0;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+
+    th, td {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      background: var(--surface-hover);
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    td {
+      color: var(--text-secondary);
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+  }
+
+  blockquote {
+    background: var(--surface-elevated);
+    border-left: 4px solid var(--accent-primary);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    padding: 1.5rem 2rem;
+    margin: 2rem 0;
+    position: relative;
+
+    &::before {
+      content: """;
+      font-size: 4rem;
+      color: var(--accent-primary);
+      position: absolute;
+      top: 0;
+      left: 1rem;
+      line-height: 1;
+      opacity: 0.3;
+    }
+
+    p {
+      margin: 0;
+      font-style: italic;
+      color: var(--text-secondary);
+      position: relative;
+      z-index: 1;
+    }
+  }
+
+  svg {
+    max-width: 100%;
+    height: auto;
+    margin: 2rem 0;
+    border-radius: var(--radius);
+    
+    @media (max-width: 768px) {
+      font-size: 12px;
+    }
+  }
+}
+
+// Jekyll syntax highlighting
+.highlight {
+  background: var(--surface-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  overflow-x: auto;
+
+  pre {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  :root[data-theme="dark"] & {
+    .c { color: #75715e; }
+    .k { color: #66d9ef; }
+    .s { color: #a6e22e; }
+    .n { color: #f8f8f2; }
+    .o { color: #f92672; }
+    .p { color: #f8f8f2; }
+  }
+
+  :root[data-theme="light"] & {
+    .c { color: #999988; }
+    .k { color: #000000; }
+    .s { color: #d14; }
+    .n { color: #333333; }
+    .o { color: #000000; }
+    .p { color: #333333; }
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .container {
+    padding: 0 16px;
+  }
+  
+  .section {
+    padding: 60px 0;
+  }
+  
+  .content-wrapper {
+    .page__lead {
+      font-size: 1.1rem;
+    }
+  }
+}
