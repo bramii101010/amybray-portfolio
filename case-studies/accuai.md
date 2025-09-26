@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: case-study
 title: "AccuAI – AI Accounting Assistant"
 permalink: /case-studies/accuai/
 header:
