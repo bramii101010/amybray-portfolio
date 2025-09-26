@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: case-study
 title: "Bullhorn Implementation & Workflow Automation"
 permalink: /case-studies/bullhorn-automation/
 header:
