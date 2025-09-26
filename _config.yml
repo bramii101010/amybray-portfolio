@@ -104,4 +104,3 @@ exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
-
