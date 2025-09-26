@@ -1,0 +1,27 @@
+<header class="site-header">
+  <div class="container">
+    <div class="header-content">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.author.name | default: site.name }} - Home">
+        {{ site.author.name | default: site.name }}
+      </a>
+      
+      <nav class="nav-actions" aria-label="Main navigation">
+        {% for item in site.data.navigation.main %}
+          <a class="nav-btn{% if page.url == item.url %} active{% endif %}" 
+             href="{{ item.url | relative_url }}">
+            {{ item.title }}
+          </a>
+        {% endfor %}
+        
+        <button
+          id="theme-toggle"
+          class="theme-toggle"
+          aria-label="Toggle between light and dark themes"
+          title="Toggle theme"
+        >
+          🌙
+        </button>
+      </nav>
+    </div>
+  </div>
+</header>
