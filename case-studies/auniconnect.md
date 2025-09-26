@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: case-study
 title: "AuniConnect – Employee Engagement Platform"
 permalink: /case-studies/auniconnect/
 header:
