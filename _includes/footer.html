@@ -1,0 +1,29 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-main">
+        <div class="footer-brand">
+          <h4>{{ site.author.name | default: site.name }}</h4>
+          <p>{{ site.description }}</p>
+        </div>
+        <div class="footer-links">
+          <div class="link-group">
+            <h5>Navigation</h5>
+            {% for item in site.data.navigation.main %}
+              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endfor %}
+          </div>
+          <div class="link-group">
+            <h5>Connect</h5>
+            {% for link in site.author.links %}
+              <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>© <span id="current-year"></span> {{ site.author.name | default: site.name }}. Crafted with precision and purpose.</p>
+      </div>
+    </div>
+  </div>
+</footer>
